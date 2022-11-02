@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>26282461814-te1a0p4ilb8rmv2g3a6v09hkrn1j2iba.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.26282461814-te1a0p4ilb8rmv2g3a6v09hkrn1j2iba</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>26282461814-caugheca13j8dn615iedoqga4hcatcnl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6LIuNa8sV_hBlpeFsgujefTMsG8lW_GI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>26282461814</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mintsai.testfirebase</string>
+	<key>PROJECT_ID</key>
+	<string>login-b6ad4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-b6ad4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:26282461814:ios:6606dedfeb7c973ae6ed57</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-b6ad4-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

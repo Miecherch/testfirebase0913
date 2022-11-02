@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26282461814",
+    "project_id": "login-b6ad4",
+    "storage_bucket": "login-b6ad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26282461814:android:7dfa105c22927442e6ed57",
+        "android_client_info": {
+          "package_name": "com.mintsai.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26282461814-8nm1pi6brov2mmimlck4etl99235h0sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD71RQfkaEEiDX2mhc1R29Jv8qEMe68vEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26282461814-8nm1pi6brov2mmimlck4etl99235h0sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
